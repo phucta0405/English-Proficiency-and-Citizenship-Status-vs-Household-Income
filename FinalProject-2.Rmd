@@ -1,6 +1,6 @@
 ---
 title: "English Proficiency, Citizenship, and Their Impact on Household Income: A Comprehensive Analysis Within the States of New Jersey, New York, and Pennsylvania"
-author: "Steve Ta"
+author: "Steve Ta & Ria Aleksanyan"
 date: "2024-08-16"
 output: pdf_document
 always_allow_html: true
